@@ -1,3 +1,3 @@
 <x-layouts.app title="Home">
-    <h1>Honme</h1>
+    <h1>Home Bienvenidoos</h1>
 </x-layouts.app>
